@@ -35,11 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An other boke
-againſt Raſtel
-named the ſubſedye or bulwark
-to his fyrſt boke / made by
-Ihon Frithe p
+
 1. The prologe.
 
 1. ¶Here foloweth te preface
@@ -52,21 +48,6 @@ of this boke.
     _ ¶An anſwere to Raſtels fyrſt Chapter
 whych reproueth me for booſtynge
 my ſelfe.
-
-      * The ſeconde erroure that Raſtel layeth
-to my charge is that I wolde brīge the
-people in beleue that repētance of a mā
-helpeth not for the remiſſiō of his ſyn̄e.
-
-      * The thirde errour which Raſtell layeth
-aginſt me is that I wolde make mē beleue
-that they neade to do penaunce for
-the ſatiſfaction for theyr ſynnes.
-
-      * The fourthe errour that he layethe agaynſte
-me is that I wolde perſwade
-the people that good workes are nothynge
-auaylable.
 
     _ ¶An anſwere vnto Raſtels ſeconde
 chaptre whych improueth me for raylynge
@@ -125,32 +106,28 @@ There are 104 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|10||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|2||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|10||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|2||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -158,17 +135,15 @@ There are 104 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__bibl__|1||
-|2.|__body__|1||
-|3.|__desc__|104||
-|4.|__div__|9| @__type__ (9) : title_page (1), prologue (1), preface (1), treatise (1), chapter (2), error (3)  •  @__n__ (5) : 1 (1), 2 (2), 3 (1), 4 (1)|
-|5.|__front__|1||
-|6.|__g__|712| @__ref__ (712) : char:EOLhyphen (210), char:cmbAbbrStroke (401), char:cross (1), char:EOLunhyphen (98), char:punc (2)|
-|7.|__gap__|104| @__reason__ (104) : illegible (103), illegible: blotted (1)  •  @__resp__ (103) : #TECH (103)  •  @__extent__ (104) : 1 letter (85), 1 word (8), 2 letters (10), 1 span (1)|
-|8.|__head__|8||
-|9.|__l__|12||
-|10.|__note__|79| @__place__ (79) : margin (79)|
-|11.|__p__|73||
-|12.|__pb__|52| @__facs__ (52) : tcp:5962:1 (2), tcp:5962:2 (2), tcp:5962:3 (2), tcp:5962:4 (2), tcp:5962:5 (2), tcp:5962:6 (2), tcp:5962:7 (2), tcp:5962:8 (2), tcp:5962:9 (2), tcp:5962:10 (2), tcp:5962:11 (2), tcp:5962:12 (2), tcp:5962:13 (2), tcp:5962:14 (2), tcp:5962:15 (2), tcp:5962:16 (2), tcp:5962:17 (2), tcp:5962:18 (2), tcp:5962:19 (2), tcp:5962:20 (2), tcp:5962:21 (2), tcp:5962:22 (2), tcp:5962:23 (2), tcp:5962:24 (2), tcp:5962:25 (2), tcp:5962:26 (2)|
-|13.|__q__|4||
-|14.|__seg__|3| @__rend__ (3) : decorInit (3)|
-|15.|__trailer__|1||
+|2.|__desc__|104||
+|3.|__div__|9| @__type__ (9) : title_page (1), prologue (1), preface (1), treatise (1), chapter (2), error (3)  •  @__n__ (5) : 1 (1), 2 (2), 3 (1), 4 (1)|
+|4.|__g__|712| @__ref__ (712) : char:EOLhyphen (210), char:cmbAbbrStroke (401), char:cross (1), char:EOLunhyphen (98), char:punc (2)|
+|5.|__gap__|104| @__reason__ (104) : illegible (103), illegible: blotted (1)  •  @__resp__ (103) : #TECH (103)  •  @__extent__ (104) : 1 letter (85), 1 word (8), 2 letters (10), 1 span (1)|
+|6.|__head__|8||
+|7.|__l__|12||
+|8.|__note__|79| @__place__ (79) : margin (79)|
+|9.|__p__|73||
+|10.|__pb__|52| @__facs__ (52) : tcp:5962:1 (2), tcp:5962:2 (2), tcp:5962:3 (2), tcp:5962:4 (2), tcp:5962:5 (2), tcp:5962:6 (2), tcp:5962:7 (2), tcp:5962:8 (2), tcp:5962:9 (2), tcp:5962:10 (2), tcp:5962:11 (2), tcp:5962:12 (2), tcp:5962:13 (2), tcp:5962:14 (2), tcp:5962:15 (2), tcp:5962:16 (2), tcp:5962:17 (2), tcp:5962:18 (2), tcp:5962:19 (2), tcp:5962:20 (2), tcp:5962:21 (2), tcp:5962:22 (2), tcp:5962:23 (2), tcp:5962:24 (2), tcp:5962:25 (2), tcp:5962:26 (2)|
+|11.|__q__|4||
+|12.|__seg__|3| @__rend__ (3) : decorInit (3)|
+|13.|__trailer__|1||
